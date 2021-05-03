@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Working with GitHub!!"
 ---
 
-Caption here
+It's a great day for GitHub Actions
 
 ![octocat-de-los-muertos](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
 {: .center}
