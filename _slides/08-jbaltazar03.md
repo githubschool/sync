@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Whisky on the rocks
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
